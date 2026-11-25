@@ -337,6 +337,7 @@ A curated list of open source sysadmin resources. From backups and build automat
 * [Riemann](http://riemann.io/) – flexible and fast events processor for complex events/metrics analysis.
 * [Sensu](https://sensu.io/) – open source monitoring framework.
 * [Sentry](https://sentry.io/) – application monitoring, event logging and aggregation.
+* [SiteWatcher](https://github.com/NikKurkov/sitewatcher) – self-hosted website monitoring with uptime history, TLS and domain expiry alerts, and public status pages.
 * [Uptime Kuma](https://github.com/louislam/uptime-kuma) – easy to use self-hosted monitoring tool.
 * [Zabbix](https://www.zabbix.com/) – enterprise-class software for monitoring networks and applications.
 * [Zenoss](https://www.zenoss.com) – application, server, and network management platform.
